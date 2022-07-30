@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CurriculumVitae</title>
+</head>
+<body>
+    <h1><center>Curriculum Vitae</h1>
+    <br>
+    <h2 align="center"></align> Hebert Fransua Peña Polanco </h2></aling>
+    <fieldset>
+        <legend><h3>Datos Generales</h3></legend>
+           <li>DPI: 3399 85674 2101</li> 
+           <li>Dirección: Jalapa</li>
+           <li>Celular: 32355853</li>
+           <li>Correo Electrónico: hpenap1@miumg.edu.gt</li>
+    </fieldset>
+    <fieldset>
+        <legend><h3>Datos Académicos</h3></legend>
+
+           <li>Educación Primaria: Escuela Aplicación            2006-2011 </li> 
+           <li>Educación Secundaria: Colegio Sagrado Corazón     2012-2014</li>
+           <li>Educación Diversificado: Colegio Sagrado Corazón  2015-2017</li>
+           <li>Educación Universitaria: Universidad Mariano Gálvez  2018-2022</li>
+    </fieldset>
+    <fieldset>
+        <legend><h3>Datos Laborales</h3></legend>
+
+           <li>Docente Colegio AGAZZI 2019-2020 </li> 
+           <li>Superintendencia de Administración Tributaria     2020-2022</li>
+    </fieldset>    
+</body>
+</html>
